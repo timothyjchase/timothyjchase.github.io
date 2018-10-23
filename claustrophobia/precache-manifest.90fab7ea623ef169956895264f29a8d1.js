@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/claustrophobia/static/js/1.ff7d6b86.chunk.js"
   },
   {
-    "revision": "646ac255f2a073600cf9b2d0602f3e52",
+    "revision": "45fb706aacd9312d0171048d648704df",
     "url": "/claustrophobia/index.html"
   }
 ];
