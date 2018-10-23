@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/claustrophobia/static/js/runtime~main.8e8f99ea.js"
   },
   {
-    "revision": "cf88b5b2e1e7dbffe0e9",
-    "url": "/claustrophobia/static/js/main.cf88b5b2.chunk.js"
+    "revision": "954738b598b1cf1a92a5",
+    "url": "/claustrophobia/static/js/main.954738b5.chunk.js"
   },
   {
     "revision": "f296245bda25134dbacc",
     "url": "/claustrophobia/static/js/1.f296245b.chunk.js"
   },
   {
-    "revision": "c0bcb556cbaa1dc7bf103128269ac245",
+    "revision": "0633e577981d94bfcb4cbae4a7aebb6f",
     "url": "/claustrophobia/index.html"
   }
 ];

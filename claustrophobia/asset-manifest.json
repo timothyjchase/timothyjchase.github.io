@@ -1,11 +1,11 @@
 {
-  "main.js": "/claustrophobia/static/js/main.cf88b5b2.chunk.js",
-  "main.js.map": "/claustrophobia/static/js/main.cf88b5b2.chunk.js.map",
+  "main.js": "/claustrophobia/static/js/main.954738b5.chunk.js",
+  "main.js.map": "/claustrophobia/static/js/main.954738b5.chunk.js.map",
   "static/js/1.f296245b.chunk.js": "/claustrophobia/static/js/1.f296245b.chunk.js",
   "static/js/1.f296245b.chunk.js.map": "/claustrophobia/static/js/1.f296245b.chunk.js.map",
   "runtime~main.js": "/claustrophobia/static/js/runtime~main.8e8f99ea.js",
   "runtime~main.js.map": "/claustrophobia/static/js/runtime~main.8e8f99ea.js.map",
   "index.html": "/claustrophobia/index.html",
-  "precache-manifest.81426b76ccfea9b3141032f987132855.js": "/claustrophobia/precache-manifest.81426b76ccfea9b3141032f987132855.js",
+  "precache-manifest.7de87b63668f67fe6151eaff607278f9.js": "/claustrophobia/precache-manifest.7de87b63668f67fe6151eaff607278f9.js",
   "service-worker.js": "/claustrophobia/service-worker.js"
 }
