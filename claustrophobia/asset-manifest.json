@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.655e33ae.chunk.js",
-  "main.js.map": "/static/js/main.655e33ae.chunk.js.map",
-  "static/js/1.c60aac45.chunk.js": "/static/js/1.c60aac45.chunk.js",
-  "static/js/1.c60aac45.chunk.js.map": "/static/js/1.c60aac45.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.937f6ff55b6813b2433e3c4ce8b5fd0f.js": "/precache-manifest.937f6ff55b6813b2433e3c4ce8b5fd0f.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/claustrophobia/static/js/main.655e33ae.chunk.js",
+  "main.js.map": "/claustrophobia/static/js/main.655e33ae.chunk.js.map",
+  "static/js/1.9eeb27b0.chunk.js": "/claustrophobia/static/js/1.9eeb27b0.chunk.js",
+  "static/js/1.9eeb27b0.chunk.js.map": "/claustrophobia/static/js/1.9eeb27b0.chunk.js.map",
+  "runtime~main.js": "/claustrophobia/static/js/runtime~main.8e8f99ea.js",
+  "runtime~main.js.map": "/claustrophobia/static/js/runtime~main.8e8f99ea.js.map",
+  "index.html": "/claustrophobia/index.html",
+  "precache-manifest.4feee883a84c956b73ecdac5ba5e12af.js": "/claustrophobia/precache-manifest.4feee883a84c956b73ecdac5ba5e12af.js",
+  "service-worker.js": "/claustrophobia/service-worker.js"
 }
