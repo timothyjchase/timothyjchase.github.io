@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/claustrophobia/precache-manifest.65171faaf8cf1c812b3a179944eddab5.js"
+  "/claustrophobia/precache-manifest.3ae1bd56d649b09c04a8ae070f9e65d8.js"
 );
 
 workbox.clientsClaim();
